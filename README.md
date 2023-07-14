@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @badretech
+- 👀 I’m interested in the devlopement js
+- 🌱 I’m currently learning discord.js
+- 📫 How to reach me in my mail contact@badre.tech
